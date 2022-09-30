@@ -1,5 +1,9 @@
 ## Hi, I’m @kristianvaula
 
+#### I have added some projects from my first year as a computer engineering student.
+#### Feel free to check them out! 
+
+
 - 🌱 I’m currently learning: 
   - Operating systems and principles 
   - MySQL and database management 
@@ -8,5 +12,3 @@
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
 
-### I have added some projects from my first year as a computer engineering student.
-### Feel free to check them out! 
