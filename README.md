@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning: 
   - Network programming and computer com
-  - Full-stack developmemnt
+  - Javascript
+  - Vue 3.0
   - C++
   - Basic Physics
 
