@@ -5,10 +5,10 @@
 
 
 - 🌱 I’m currently learning: 
-  - Operating systems and principles 
-  - MySQL and database management 
-  - Basic C programming
-  - Algorithms and datastructures 
+  - Network programming and computer com
+  - Full-stack developmemnt
+  - C++
+  - Basic Physics
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
 
