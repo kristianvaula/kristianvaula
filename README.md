@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: 
   - Network programming and computer com
-  - Javascript
+  - Typescript
   - Vue 3.0
   - C++
   - Basic Physics
