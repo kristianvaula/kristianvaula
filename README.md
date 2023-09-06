@@ -5,11 +5,11 @@
 
 
 - 🌱 I’m currently learning: 
-  - Network programming and computer com
-  - Typescript
-  - Vue 3.0
+  - Machine Learning
+  - App Dev for mobile devices 
+  - Numerical Analysis
   - C++
-  - Basic Physics
+    
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
 
