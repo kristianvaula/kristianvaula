@@ -13,7 +13,8 @@
 
 | Project     | Screenshot                                      | Repository Link                                    | Semester | Type of Project |
 |-------------|-------------------------------------------------|----------------------------------------------------|-----|-----------|
-| Sudoku    | <img src="https://github.com/kristianvaula/Sudoku/blob/main/screenshots/home.png" height="300"/>  | [Sudoku Repo](https://github.com/kristianvaula/Sudoku)  | 5th | Non-Graded Solo Project |
+| DDQN/PPO    | <img src="https://github.com/kristianvaula/ReinforcementLearning/blob/main/ppo_super_mario_2.gif" width="300"/>  | In progress...  | 5th | Graded Group Project |
+| Sudoku      | <img src="https://github.com/kristianvaula/Sudoku/blob/main/screenshots/home.png" height="300"/>  | [Sudoku Repo](https://github.com/kristianvaula/Sudoku)  | 5th | Non-Graded Solo Project |
 | Smartmat    | <img src="https://github.com/kristianvaula/SmartMat/blob/Main/screenshots/home.png" width="300"/>  | [SmartMat Repo](https://github.com/kristianvaula/SmartMat)  | 4th | Graded Group Project |
 | Square      | <img src="https://github.com/kristianvaula/Square/blob/main/home.png" width="300"/>  | [Square Repo](https://github.com/kristianvaula/Square)  | 4th | Graded Group Project | 
 | Tournamint  | <img src="https://github.com/kristianvaula/Tournamint/blob/main/Create.png" width="300"/>  | [Tournamint Repo](https://github.com/kristianvaula/Tournamint)  | 2nd | Graded Group Project |
