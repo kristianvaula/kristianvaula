@@ -11,10 +11,11 @@
 #### I have imported some projects from GitLab from my time as a computer engineering student.
 #### Feel free to check them out! 
 
-| Project     | Screenshot                                      | Repository Link                                    |
-|-------------|-------------------------------------------------|----------------------------------------------------|
-| Smartmat    | <img src="https://github.com/kristianvaula/SmartMat/blob/Main/screenshots/home.png" width="300"/>  | [SmartMat Repo](https://github.com/kristianvaula/SmartMat)  |
-| Square      | <img src="https://github.com/kristianvaula/Square/blob/main/home.png" width="300"/>  | [Square Repo](https://github.com/kristianvaula/Square)  |
-| Tournamint  | <img src="https://github.com/kristianvaula/Tournamint/blob/main/Create.png" width="300"/>  | [Tournamint Repo](https://github.com/kristianvaula/Tournamint)  |
-| WarGames    | <img src="https://github.com/kristianvaula/WarGames/blob/master/home.png" width="300"/>  | [WarGames Repo](https://github.com/kristianvaula/WarGames)  |
+| Project     | Screenshot                                      | Repository Link                                    | Semester | Type of Project |
+|-------------|-------------------------------------------------|----------------------------------------------------|-----|-----------|
+| Sudoku    | <img src="https://github.com/kristianvaula/Sudoku/blob/main/screenshots/home.png" height="300"/>  | [Sudoku Repo](https://github.com/kristianvaula/Sudoku)  | 5th | Non-Graded Solo Project |
+| Smartmat    | <img src="https://github.com/kristianvaula/SmartMat/blob/Main/screenshots/home.png" width="300"/>  | [SmartMat Repo](https://github.com/kristianvaula/SmartMat)  | 4th | Graded Group Project |
+| Square      | <img src="https://github.com/kristianvaula/Square/blob/main/home.png" width="300"/>  | [Square Repo](https://github.com/kristianvaula/Square)  | 4th | Graded Group Project | 
+| Tournamint  | <img src="https://github.com/kristianvaula/Tournamint/blob/main/Create.png" width="300"/>  | [Tournamint Repo](https://github.com/kristianvaula/Tournamint)  | 2nd | Graded Group Project |
+| WarGames    | <img src="https://github.com/kristianvaula/WarGames/blob/master/home.png" width="300"/>  | [WarGames Repo](https://github.com/kristianvaula/WarGames)  | 2nd | Graded Solo Project |
 
