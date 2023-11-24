@@ -13,7 +13,7 @@
 
 | Project     | Screenshot                                      | Repository Link                                    | Semester | Type of Project |
 |-------------|-------------------------------------------------|----------------------------------------------------|-----|-----------|
-| DDQN/PPO    | <img src="https://github.com/kristianvaula/ReinforcementLearning/blob/main/ppo_super_mario_2.gif" width="300"/>  | [ReinforcementLearning Repo](https://github.com/kristianvaula/ReinforcementLearning) | 5th | Graded Group Project |
+| DDQN/PPO    | <img src="https://github.com/kristianvaula/ReinforcementLearning/blob/main/ppo_super_mario_2.gif" width="300"/>  | [RL Repo](https://github.com/kristianvaula/ReinforcementLearning) | 5th | Graded Group Project |
 | Sudoku      | <img src="https://github.com/kristianvaula/Sudoku/blob/main/screenshots/home.png" height="300"/>  | [Sudoku Repo](https://github.com/kristianvaula/Sudoku)  | 5th | Non-Graded Solo Project |
 | Smartmat    | <img src="https://github.com/kristianvaula/SmartMat/blob/Main/screenshots/home.png" width="300"/>  | [SmartMat Repo](https://github.com/kristianvaula/SmartMat)  | 4th | Graded Group Project |
 | Square      | <img src="https://github.com/kristianvaula/Square/blob/main/home.png" width="300"/>  | [Square Repo](https://github.com/kristianvaula/Square)  | 4th | Graded Group Project | 
