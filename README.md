@@ -1,8 +1,7 @@
 ## Hi, I’m @kristianvaula
 - 🌱 I’m currently learning: 
   - Machine Learning
-  - App Dev for mobile devices 
-  - Numerical Analysis
+  - Next.js
   - C++
     
 
