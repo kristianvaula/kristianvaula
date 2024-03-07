@@ -1,8 +1,7 @@
 ## Hi, I’m @kristianvaula
 - 🌱 I’m currently learning: 
-  - Machine Learning
   - Next.js
-  - C++
+  - Full-Stack Development
     
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
