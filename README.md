@@ -9,7 +9,6 @@
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
 
-#### I have imported some projects from GitLab from my time as a computer engineering student.
 #### Feel free to check them out! 
 
 | Project     | Screenshot                                      | Link                                    | Semester | Type of Project |
