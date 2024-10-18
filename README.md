@@ -13,7 +13,7 @@
 
 | Project     | Screenshot                                      | Link                                    | Semester | Type of Project |
 |-------------|-------------------------------------------------|----------------------------------------------------|-----|-----------|
-| Ku Clothing | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/ku-clothing-screenshot.png" width="300"/>  | [ku-clothing.no](https://ku-clothing.no/) | (non-academic) | Self-initiated |
+| Ku Clothing | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/ku-clothing-screenshot.png" width="300"/>  | Taken Down | (non-academic) | Self-initiated |
 | MOLECULE    | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/molecule_v1.png" width="300" style="opacity: 50%;"/>  | Private | 6th | Bachelor |
 | DDQN/PPO    | <img src="https://github.com/kristianvaula/ReinforcementLearning/blob/main/ppo_super_mario_2.gif" width="300"/>  | [RL Repo](https://github.com/kristianvaula/ReinforcementLearning) | 5th | Graded Group Project |
 | Sudoku      | <img src="https://github.com/kristianvaula/Sudoku/blob/main/screenshots/home.png" height="300"/>  | [Sudoku Repo](https://github.com/kristianvaula/Sudoku)  | 5th | Non-Graded Solo Project |
