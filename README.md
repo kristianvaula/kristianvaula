@@ -1,10 +1,9 @@
 ## Hi, I’m @kristianvaula
 - 🌱 I’m currently learning: 
-  - Ethical Hacking and Penetration Testing
-  - Design of Grapchical User Interfaces
-  - Introduction to Aritifical Intelligence
-  - Principle of Information Systems
-  - Applied Data Science
+  - Artificial Intelligence Programming
+  - Data Warehousing and Data Mining
+  - Artificial Intelligence Methods
+  - Experts in teams - Robotic Ocean Waste Removal 
     
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
