@@ -1,9 +1,5 @@
 ## Hi, I’m @kristianvaula
-- 🌱 I’m currently learning: 
-  - Artificial Intelligence Programming
-  - Data Warehousing and Data Mining
-  - Artificial Intelligence Methods
-  - Experts in teams - Robotic Ocean Waste Removal 
+- 🌱 I’m currently learning doing a master's thesis on RGB-E fused object detection for autonomous vehicles.
     
 
 - 📫 Reach me through my student email: kristvje@stud.ntnu.no
