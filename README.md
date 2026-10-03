@@ -6,7 +6,7 @@
 
 | Project     | Screenshot                                      | Link                                    | Semester | Type of Project |
 |-------------|-------------------------------------------------|----------------------------------------------------|-----|-----------|
-| SMCFNet | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/ku-clothing-screenshot.png" width="300"/>  | [Repo](https://github.com/kristianvaula/SMCFNet) | 9-10th | Master's |
+| SMCFNet | <img src="https://github.com/kristianvaula/SMCFNet/blob/main/docs/arch.png" width="300"/>  | [Repo](https://github.com/kristianvaula/SMCFNet) | 9-10th | Master's |
 | Abakus Infoscreen | <img src="https://github.com/kristianvaula/abakus-infoscreenclient/blob/main/screenshot.png" width="300"/>  | [Repo](https://github.com/kristianvaula/abakus-infoscreenclient) | (non-academic) | Volunteer work |
 | Ku Clothing | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/ku-clothing-screenshot.png" width="300"/>  | Taken Down | (non-academic) | Self-initiated |
 | MOLECULE    | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/molecule_v1.png" width="300" style="opacity: 50%;"/>  | Private | 6th | Bachelor |
