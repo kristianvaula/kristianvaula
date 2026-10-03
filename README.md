@@ -1,13 +1,12 @@
 ## Hi, I’m @kristianvaula
-- 🌱 I’m currently learning doing a master's thesis on RGB-E fused object detection for autonomous vehicles.
-    
-
-- 📫 Reach me through my student email: kristvje@stud.ntnu.no
+- 💼 Currently working for Bouvet ASA, hired as a backend-developer for Equinor.  
+- 📫 Reach me through my email: kristian_vaula@hotmail.com
 
 #### Feel free to check them out! 
 
 | Project     | Screenshot                                      | Link                                    | Semester | Type of Project |
 |-------------|-------------------------------------------------|----------------------------------------------------|-----|-----------|
+| SMCFNet | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/ku-clothing-screenshot.png" width="300"/>  | [Repo](https://github.com/kristianvaula/SMCFNet) | 9-10th | Master's |
 | Abakus Infoscreen | <img src="https://github.com/kristianvaula/abakus-infoscreenclient/blob/main/screenshot.png" width="300"/>  | [Repo](https://github.com/kristianvaula/abakus-infoscreenclient) | (non-academic) | Volunteer work |
 | Ku Clothing | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/ku-clothing-screenshot.png" width="300"/>  | Taken Down | (non-academic) | Self-initiated |
 | MOLECULE    | <img src="https://github.com/kristianvaula/kristianvaula/blob/main/molecule_v1.png" width="300" style="opacity: 50%;"/>  | Private | 6th | Bachelor |
